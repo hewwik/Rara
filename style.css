@@ -87,7 +87,7 @@
 	height:469px;
 	margin:16px;
 	10 0 15px;
-	display:flex;
+	display:table-column-group;
 	justify-content:center;
 	align-items:down;
 	float:left
