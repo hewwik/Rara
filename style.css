@@ -82,6 +82,16 @@
 	align-items:center;
 	float:left
 }
+.img-2{
+	width:337px;
+	height:469px;
+	margin:16px;
+	0 0 15px;
+	display:flex;
+	justify-content:down;
+	align-items:down;
+	float:left
+}
 .box-a{
 	width:290px;
 	height:469px;
@@ -103,6 +113,14 @@
 	width:200px;
 	height:469px;
 	margin-top:15px;
+	margin-right:15px;
+	position:relative
+}
+.box-c{
+	float:right;
+	width:200px;
+	height:469px;
+	margin-top:45px;
 	margin-right:15px;
 	position:relative
 }
