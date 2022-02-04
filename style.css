@@ -89,7 +89,7 @@
 	0 30 15px;
 	display:table-column-group;
 	justify-content:center;
-	align-items:down;
+	align-items:center;
 	float:left
 }
 .box-a{
