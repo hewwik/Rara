@@ -86,9 +86,9 @@
 	width:337px;
 	height:469px;
 	margin:16px;
-	0 0 15px;
+	10 0 15px;
 	display:flex;
-	justify-content:down;
+	justify-content:center;
 	align-items:down;
 	float:left
 }
