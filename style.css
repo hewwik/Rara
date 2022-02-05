@@ -42,6 +42,7 @@
 	font-size:1.5em;
 	display:inline-block;
 	margin-top:30px
+	color: #faaaf3;
 }
 .-nav{
 	width:30%;
@@ -101,7 +102,7 @@
 }
 .box-a h4{
 	font-size:3.5em;
-	color:white
+	color:#faaaf3;
 }
 .box-a p{
 	width:100%;
@@ -144,7 +145,7 @@
 }
 .box-b h5{
 	font-size:1.5em;
-	color:white
+	color:#faaaf3;
 }
 .box-b span{
 	font-size:1.5em
@@ -164,7 +165,7 @@ p{
 		color:#ffd4fa
 }
 	100%{
-		color:white
+		color:#faaaf3;
 }
 }
 @-moz-keyframes pulse{
@@ -172,7 +173,7 @@ p{
 		color:#b366e6
 }
 	100%{
-		color:white
+		color:#faaaf3;
 }
 }
 @-webkit-keyframes pulse{
@@ -180,7 +181,7 @@ p{
 		color:##ffd4fa
 }
 	100%{
-		color:white
+		color:#faaaf3;
 }
 }
 #-footer{
